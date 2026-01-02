@@ -90,6 +90,7 @@ Predicted House Price: <numeric value>
 ## 👨‍💻 Author
 
 Developed by **Saurabh**
+
 Feel free to connect or contribute to this project!
 
 ⭐ If you found this project helpful, don’t forget to star the repository!
